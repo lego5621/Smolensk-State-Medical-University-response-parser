@@ -16,3 +16,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
+Код не идеален, писался за 1 день, а переписывать нет желания
+
+[Ссылка на сайт](https://sgmy-parser.surge.sh/) 
